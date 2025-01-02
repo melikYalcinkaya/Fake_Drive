@@ -1,0 +1,5 @@
+﻿Baslangic: 2024-12-29 14:46:08 | Islem: Üye ekleme | Durum: Basariyla | KullanicI DId: 4
+Baslangic: 2024-12-29 23:36:40 | Islem: Üye ekleme (ID girilmedi) | Durum: Basarisiz | KullanicI DId: None
+Baslangic: 2025-01-02 12:24:09 | Islem: Üye ekleme | Durum: Basariyla | KullanicI DId: 2
+Baslangic: 2025-01-02 14:24:58 | Islem: Üye ekleme | Durum: Basariyla | KullanicI DId: 16
+Baslangic: 2025-01-03 00:11:42 | Islem: Üye ekleme | Durum: Basariyla | KullanicI DId: 17

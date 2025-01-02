@@ -1,0 +1,9 @@
+﻿Başlangıç: 2024-12-29 16:15:45 | Anormal Davranış: Üçüncü başarısız giriş denemesi | Kullanıcı ID: None
+Başlangıç: 2024-12-29 16:15:49 | Anormal Davranış: Üçüncü başarısız giriş denemesi | Kullanıcı ID: None
+Başlangıç: 2024-12-29 16:22:36 | Anormal Davranış: Üçüncü başarısız giriş denemesi | Kullanıcı ID: None
+Başlangıç: 2025-01-02 12:35:43 | Anormal Davranış: Onceden Paylasilmis dosya | Kullanıcı ID: None
+Başlangıç: 2024-12-29 16:48:59 | Anormal Davranış: Çok sık şifre değiştirme talebi | Kullanıcı ID: 3
+Başlangıç: 2025-01-02 11:49:35 | Anormal Davranış: Çok sık şifre değiştirme talebi | Kullanıcı ID: 16
+Başlangıç: 2025-01-02 12:23:06 | Anormal Davranış: Çok sık şifre değiştirme talebi | Kullanıcı ID: 16
+Başlangıç: 2025-01-02 12:27:43 | Anormal Davranış: Üçüncü başarısız giriş denemesi | Kullanıcı ID: None
+
